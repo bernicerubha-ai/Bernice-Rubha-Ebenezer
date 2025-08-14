@@ -1,4 +1,3 @@
-#Technical Software in IT Jobs
 Understanding the Purpose of README.md:
 *Explain its role in project documentation, onboarding new contributors, and showcasing work to potential employers.
 *Discuss how a well-structured README.md acts as a project's "resume.
